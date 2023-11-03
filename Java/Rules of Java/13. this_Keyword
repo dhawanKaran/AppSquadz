@@ -1,0 +1,13 @@
+1. this always points to a current object.
+
+2. this is a reference variable which holds the refernce id of current object.
+
+3. Whenever class level variable and a local variable both are having same name then this concept is known as data shadowing.
+
+4. Priority always goes to a local variable.
+
+5. You can not access instance data members of class without using refernce id dot.
+
+6. this keyword can not be used in any static function.
+
+7. If you are passing "this" as argument in any instance function of a class then it must be the first argument.

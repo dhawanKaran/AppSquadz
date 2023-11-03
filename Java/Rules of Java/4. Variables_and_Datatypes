@@ -1,0 +1,25 @@
+1. RAM is divided into a small small cell by the operating system.
+
+2. Each cell is having a size of one byte.
+
+3. Each cell is also having a one address starting from zero up to the number of cell.
+
+4. Variable are just a name given to a memory location and that memory location is used to hold the data.
+
+5. Data types tell us only two things about a variable.
+   a) How much memory it is going to take.
+   b) what kind of data it is going to hold.
+   
+6. In java all the numeric data types are signed.
+
+7. If you define any variable as a signed that means that variable can hold positive and negative both values.
+
+8. If you define any variable as a unsigned that means that variable can hold only positive values.
+
+9. In java every data types has got one default value and this rule belongs to class level variable.
+
+10. Local variable must be initialized before the first use.
+
+11. In java all the integer literal (constant) are treated as "int".
+
+12. In java all the floating literal (constant) are treated as "double".

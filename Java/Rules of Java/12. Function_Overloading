@@ -1,0 +1,13 @@
+1. Function overloading says that you can have more than one function with same name in a one class having a different prototype.
+ 
+2. Access Modifier do not play any role in case of function overloading.
+
+3. Change the number of argument in each function.
+
+4. If you want to keep number of argument in each function same and still you want to overload then change the data types of their arguments.
+
+5. It is not mandatory to catch the return value of any function while calling it.
+
+6. Return type of functions do not play any role in case of function overloading.
+
+7. Function overloading can only be achieved by changing only in arguments.

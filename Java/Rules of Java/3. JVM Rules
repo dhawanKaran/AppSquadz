@@ -1,0 +1,31 @@
+1. In java all the statements we have to write within class block.
+
+2. Always keep first letter of our class name as a capital letter.
+
+3. If you want to make any class of java executable then it must be having main() method.
+ 
+4. Not every class is required a main() method.
+
+5. Java has inherited a complete syntax from the C language.
+
+6. The source code of java program must be stored in a file having a extension .java .
+
+7. Name of .java file should be the same as your class name.
+
+8. If nothing is left to be executed with in a main() method then java program terminates automatically.
+
+9. Physical presence of any software in RAM is known as one instance of that software.
+
+10. You can run more than one JVM in single operating system.
+
+11. Byte code of every class is always stored in a separate .claas file and the name of that .class file will be the same as your class name.
+
+12. You can keep more than one class in a single .java file.
+
+13. Always keep separate .java file for each claas.
+
+14. If you are having more than one class in a single .java file than can you keep main() method in each class. [yes]
+
+15. As a time only one .class file can be created into the one instance of JVM.
+
+16. Can you keep more than one main() method in a single class. [yes]

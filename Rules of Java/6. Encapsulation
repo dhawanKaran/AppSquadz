@@ -1,0 +1,20 @@
+Object                                       class
+{                                            {
+properties  -------------------------------> Data Members
+
+behaviours  -------------------------------> Member Functions
+}                                            }
+
+Encapsulation: Wrapping up data members and member functions into a single unit.
+
+Class: Class is representation of similar types of objects and it is an implementation of encaapsulation.
+
+If data members of class are not static then by default they are instance.
+
+The portion of a class which is getting a memory at class loading time that can get the memory only once in the life cycle of a class and this process is known as static memory allocation.
+
+The portion of a class which is getting a memory at runtime that can get the memory again and again in the life cycle of a class and this process is known as dynamic memory allocation.
+
+All the functions of a class are always getting a memory at a class loading time.
+
+"New" operator is used to allocate a memory at runtime in java.

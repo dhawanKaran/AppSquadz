@@ -1,0 +1,31 @@
+1. One name many form.
+
+2. Ability to take more than one form.
+
+3. Whenever an object gives a different different behaviours in different different conditions or circumstances then that behaviour of object is known as polimorphism.
+
+4. It reduces the complexity of an object.
+
+5. Polimorphism is always achieved via behaviour of an object properties of an object do not play any role in case of polimorphism.
+
+                                  
+								   
+								     Polimorphism
+									      |
+							-------------------------------
+							|                             |
+						Compile time                    Runtime
+				Whenever an object is bound   |   Whenever an object is bound
+				with their functionality at   |   with their functionality at
+				compile time then it is       |   runtime then it is known as 
+				known as compile time         |   runtime polimorphism.
+				polimorphism.                 |
+				                              |
+
+6. Java does not support operator overloading explicity.
+
+7. Java does not support compile time polimorphism.
+
+8. Virtual functions are always bound at runtime.
+
+9. In java all the instance functions of a class are implicit virtual.

@@ -1,0 +1,12 @@
+Assignment-1
+
+1. int max(int x[])
+2. int min(int x[])
+3. int max1(int x[][])
+4. int min1(int x[][])
+5. void sort(int x[])
+6. void sort1(int x[][])
+7. void mergesort(int x[], int y[])
+8. void union(int x[], int y[])
+9.  void intersection(int x[], int y[])
+10. void matrixadd(int x[][], int y[][])

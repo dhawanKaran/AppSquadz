@@ -1,0 +1,18 @@
+1. Byte Code contains small small symbols and such symbols of the byte code takes one byte to store itself on a hard disk that's why, it is known as byte code.
+
+2. Java program always travel in the form of byte code from OS to another OS.
+
+3. Machine code of java program is never stored on a hard disk. It is always created on the fly.
+
+4. We have make separate JVM for each OS to convert the byte code into a machine code for according that OS.
+
+5. A language which does not support two features of OOPs.
+   a) Inheritance
+   b) Runtime Polimorphism or dynamic binding
+is known as Object Based Programming Language.
+
+6. A Language in which everything is represented in the form of object is known as pure or truly Object Oriented Programming.
+
+7. In java everything is represented in the form of object except the primitive data type.
+
+8. Just because of primitive data type, java is not a pure or truly Object Oriented Language.   

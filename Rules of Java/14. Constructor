@@ -1,0 +1,48 @@
+Constructors are the special member function of a class which are used to initialize an object.
+
+Putting the values into the properties of an object while creating it, this process is known as Object Initialization and those values are known as initial values.
+
+Putting the values into the data members of an object while creating it, this process is known as Object Initialization.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+If you want to perform any task only once in the life cycle of object then put the code of that task into the constructor.
+
+If you want to provide certain common resources to the each object of your class like database connection, creating GUI, file connection, etc. then put the code of these resources into the constructor. In java constructor are by default static.
+
+
+Problem ---> Object Initialization ---> Constructor ---> Three rules 
+
+class Bike         | Bike b = new Bike();          | add Employee
+{                  | System.out.println(b.color);  |
+	String color;  |                               |   new
+}                  |                               |
+
+
+           ----------------------------------
+		   |                                |
+		   |              --------------    |
+		   |    Name      |            |    |
+		   |              --------------    |
+		   |                                |
+		   |              --------------    |
+		   |    Add       |            |    |
+		   |              --------------    |
+		   |                                |
+		   |              --------------    |
+		   |    Salary    |            |    |
+		   |              --------------    |
+		   |                                |
+		   |          ---------             |
+		   |          |  ADD  |             |
+		   |          ---------             | 
+		   |                                |
+		   ----------------------------------
+		   
+No class can exist without any constructor.
+
+If there is no constructor in the class then one non-parameterized (default) constructor is inserted into the class by the compiler.
+
+Constructor can be overloaded.
+
+Constructor must be having same name as your class name. Constructor are not having any return type. You can not call constructor explicity.

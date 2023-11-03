@@ -1,0 +1,270 @@
+import java.util.Scanner;
+/*                                       //Wordcount
+class StringRivision
+{ 
+  static int Wordcount(String s)
+  {
+	 
+	  int count =1;
+	  for(int i=1;i<=s.length()-1;i++)
+	  if((s.charAt(i)==' ')&&(s.charAt(i+1)!=' '))
+	  {
+		  count++;
+	  }
+
+      return count;
+
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(Wordcount(s));
+	  
+  }
+
+
+}
+*/
+                                                //Spacecount
+
+class StringRivision
+{ 
+  static int Spacecount(String s)
+  {
+	 
+	  int count =0;
+	  for(int i=1;i<=s.length()-1;i++)
+	  if((s.charAt(i)==' ')&&(s.charAt(i+1)!=' '))
+	  {
+		  count++;
+	  }
+
+      return count;
+
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(Spacecount(s));
+	  
+  }
+
+
+}
+
+
+                                                //Charcount
+ /*    class StringRivision
+{ 
+  static int Charcount(String s)
+  {
+	 
+	  int count =1;
+	  for(int i=1;i<=s.length()-1;i++)
+	  if(s.charAt(i)!=' ')
+	  {
+		  count++;
+	  }
+
+      return count;
+
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(Charcount(s));
+	  
+  }
+
+}
+*/
+
+                                                   //Reverse
+/*
+class StringRivision
+{ 
+  static String Reverse(String s)
+  {
+	 char a[]=s.toCharArray();
+	  String rev =" ";
+	  for(int i=a.length;i>0;i--)
+	  {
+		  
+		  rev = rev +  a[i];
+		 // rev=rev + s.toCharArray();
+		  
+	  }
+	 
+     return rev;
+	  
+
+  }
+  public static void main(String[] args)
+  {   
+      Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(Reverse(s));
+	  
+  }
+
+
+}
+*/
+
+
+
+/*                                               //Palindrome
+
+
+
+class StringRivision
+{ 
+  static boolean Palindrome(String s)
+  {
+	  String rev ="";
+	  for(int i=s.length()-1;i>=0;i--)
+	  {
+		  
+		  rev = rev + s.charAt(i);
+		  
+	  }
+	 
+
+  	 if (s.equals(rev))
+	 {
+	   return true;
+     }
+	
+		return false;
+			
+  }
+  public static void main(String[] args)
+  {   
+      Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	 String s=sc.nextLine();
+	  System.out.println(Palindrome(s));
+	  
+  }
+
+*/
+                  /*                                   //Ltrip
+ class StringRivision
+{ 
+  static String Ltrip(String s)
+  {
+	  String rev ="";
+	  for()
+    return rev;
+  	
+  }
+  public static void main(String[] args)
+  {   
+      Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	 String s=sc.nextLine();
+	  System.out.println(Ltrip(s));
+	  
+  }
+
+
+}									  
+					*/								  
+											
+
+                                   //VoewlCount
+ 
+ /*class StringRivision
+{ 
+  static int VowelCount(String s)
+  {
+	 char x[]=new char[s.length()];
+	  int count =0;
+	  for(int i=0;i<s.length();i++)
+	  {	  x[i]=s.charAt(i);
+	  if(x[i]=='a'||x[i]=='e'||x[i]=='i'||x[i]=='o'||x[i]=='u')
+	  {
+		  count++;
+	  }
+	  }
+      return count;
+
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(VowelCount(s));
+	  
+  }
+
+}
+*/
+
+                                   //Length
+/*	
+	
+ class StringRivision
+{ 
+  static int VowelCount(String s)
+  {
+	
+	  int count =1;
+	  for(int i=1;i<s.length();i++)
+	  {	  
+	  if(s.charAt(i)!=' ')
+	  {
+		  count++;
+	  }
+	  }
+      return count;
+
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(VowelCount(s));
+	  
+  }
+
+}
+*/
+
+                                          //Changecase
+
+/*class StringRivision
+{ 
+  static int Changecase(String s)
+  {
+	 char x[]=new char[s.length()];
+	  int count =0;
+	  for(int i=0;i<s.length();i++)
+	  {	  x[i]=s.charAt(i);
+	  if(x[i]>='a'&&x[i]<='z')
+	  {
+		  
+	  }
+	  else if(x[i]>='A'&&x[i]<='Z')
+	  {
+		  
+	  }
+      
+
+     }
+  }
+  public static void main(String[] args)
+  {   Scanner sc=new Scanner(System.in);
+      System.out.println("Enter the String");
+	  String s=sc.nextLine();
+	  System.out.println(Changecase(s));
+	  
+  }
+
+}
+
+*/

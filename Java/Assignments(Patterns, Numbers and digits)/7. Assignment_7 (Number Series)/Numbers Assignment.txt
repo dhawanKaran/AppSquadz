@@ -1,0 +1,13 @@
+1. Happy Number
+2. Goldbach Number
+3. Buzz Number
+4. Automopharic Number
+5. Armstrong Number
+6. Harshad Number
+7. Composite Number
+8. Magic Number
+9. Ugly Number
+10. Krishnamurti Number
+11. Neon Number
+12. Perfect Number
+13. A number is said to be unique, if the digits in it are not repeated. For example, 12345 is a unique number. 123445 is not an unique number.

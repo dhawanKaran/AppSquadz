@@ -1,0 +1,7 @@
+1. How to find middle element of a singly LinkedList in one pass?
+2. How to reverse a LinkedList in Java?
+3. How to remove duplicate nodes in an unsorted LinkedList?
+4. Write a recursive method to determine whether a LinkedList is sorted in descending order or not? If it's sorted then return true otherwise return false.
+5. How to find the length of a singly LinkedList in Java?
+6. How to find the Kth node from the end in a singly LinkedList?
+7. Write a method in Java to sort a given LinkedList?

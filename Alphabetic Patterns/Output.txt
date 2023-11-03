@@ -1,0 +1,774 @@
+Microsoft Windows [Version 10.0.19044.2006]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+B.java:17: error: illegal start of expression
+                if(i%2!==0)
+                        ^
+1 error
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+_____
+*****
+_____
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+**
+*****
+**
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*_*_*_*_*_
+*____*_
+*_*_*_*_*_
+*____*_
+*_*_*_*_*_
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****_
+*___*
+*****_
+*___*
+*****_
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+_____
+*___*
+_____
+*___*
+_____
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+*****
+*___*
+*****
+*___*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+***_*
+*___*
+***_*
+*___*
+***_*
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+****_
+_____
+****_
+_____
+****_
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+****_
+*___*
+****_
+*___*
+****_
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+****_
+*___*
+****_
+*___*
+****_
+
+D:\Appsquadz\Alphabetic Patterns>javac B.java
+
+D:\Appsquadz\Alphabetic Patterns>java B
+****
+*   *
+****
+*   *
+****
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+    *
+*
+*
+*
+    *
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+
+*
+*
+*
+
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+ ****
+*
+*
+*
+ ****
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+*****
+*
+*
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+*****
+*
+*
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac D.java
+
+D:\Appsquadz\Alphabetic Patterns>java D
+Error: Could not find or load main class D
+Caused by: java.lang.ClassNotFoundException: D
+
+D:\Appsquadz\Alphabetic Patterns>java C
+****
+
+
+
+****
+
+D:\Appsquadz\Alphabetic Patterns>javac C.java
+
+D:\Appsquadz\Alphabetic Patterns>java C
+*****
+*
+*
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac D.java
+
+D:\Appsquadz\Alphabetic Patterns>java D
+****
+
+
+
+****
+
+D:\Appsquadz\Alphabetic Patterns>javac D.java
+
+D:\Appsquadz\Alphabetic Patterns>java D
+****
+*   *
+*   *
+*   *
+****
+
+D:\Appsquadz\Alphabetic Patterns>javac E.java
+
+D:\Appsquadz\Alphabetic Patterns>java E
+*****
+*
+*****
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac E.java
+
+D:\Appsquadz\Alphabetic Patterns>java E
+*****
+*
+*****
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac F.java
+
+D:\Appsquadz\Alphabetic Patterns>java F
+*****
+
+*****
+
+
+
+D:\Appsquadz\Alphabetic Patterns>javac F.java
+
+D:\Appsquadz\Alphabetic Patterns>java F
+*****
+*
+*****
+*
+*
+
+D:\Appsquadz\Alphabetic Patterns>javac F.java
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+*****
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+*****
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac G.java
+
+D:\Appsquadz\Alphabetic Patterns>java G
+*****
+*
+* ***
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac H.java
+
+D:\Appsquadz\Alphabetic Patterns>java H
+
+
+*****
+
+
+
+D:\Appsquadz\Alphabetic Patterns>javac H.java
+
+D:\Appsquadz\Alphabetic Patterns>java H
+*   *
+*   *
+*****
+*   *
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac H.java
+
+D:\Appsquadz\Alphabetic Patterns>javac I.java
+
+D:\Appsquadz\Alphabetic Patterns>java I
+  *
+  *
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac I.java
+
+D:\Appsquadz\Alphabetic Patterns>java I
+
+
+
+
+
+
+D:\Appsquadz\Alphabetic Patterns>javac I.java
+
+D:\Appsquadz\Alphabetic Patterns>java I
+*****
+
+
+
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac I.java
+
+D:\Appsquadz\Alphabetic Patterns>java I
+*****
+  *
+  *
+  *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac I.java
+
+D:\Appsquadz\Alphabetic Patterns>javac J.java
+
+D:\Appsquadz\Alphabetic Patterns>java J
+*****
+  *
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac J.java
+
+D:\Appsquadz\Alphabetic Patterns>java J
+*****
+*****
+  *
+  *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac J.java
+
+D:\Appsquadz\Alphabetic Patterns>java J
+*****
+  *
+  *
+  *
+***
+
+D:\Appsquadz\Alphabetic Patterns>javac K.java
+
+D:\Appsquadz\Alphabetic Patterns>java K
+Error: Could not find or load main class K
+Caused by: java.lang.ClassNotFoundException: K
+
+D:\Appsquadz\Alphabetic Patterns>java J
+*  *
+* *
+* *
+* *
+*  *
+
+D:\Appsquadz\Alphabetic Patterns>javac J.java
+
+D:\Appsquadz\Alphabetic Patterns>java J
+*****
+  *
+  *
+  *
+***
+
+D:\Appsquadz\Alphabetic Patterns>javac K.java
+
+D:\Appsquadz\Alphabetic Patterns>java K
+*  *
+* *
+* *
+* *
+*  *
+
+D:\Appsquadz\Alphabetic Patterns>javac K.java
+
+D:\Appsquadz\Alphabetic Patterns>java K
+*  *
+* *
+**
+* *
+*  *
+
+D:\Appsquadz\Alphabetic Patterns>javac L.java
+
+D:\Appsquadz\Alphabetic Patterns>java L
+*
+*
+*
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac L.java
+
+D:\Appsquadz\Alphabetic Patterns>java L
+*
+*
+*
+*
+****
+
+D:\Appsquadz\Alphabetic Patterns>javac L.java
+
+D:\Appsquadz\Alphabetic Patterns>java L
+*
+*
+*
+*
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac M.java
+
+D:\Appsquadz\Alphabetic Patterns>java M
+*   *
+** **
+* * *
+*   *
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac N.java
+N.java:17: error: illegal start of expression
+                if((j==1 || j==n) || (i==2 && j==2) || (i==3 && j==3) || || (i==4 && j==4))
+                                                                         ^
+1 error
+
+D:\Appsquadz\Alphabetic Patterns>javac N.java
+
+D:\Appsquadz\Alphabetic Patterns>java N
+*   *
+**  *
+* * *
+*  **
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac N.java
+
+D:\Appsquadz\Alphabetic Patterns>java N
+*   *
+**  *
+* * *
+*  **
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac N.java
+
+D:\Appsquadz\Alphabetic Patterns>java N
+*   *
+**  *
+* * *
+*  **
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac N.java
+
+D:\Appsquadz\Alphabetic Patterns>java N
+
+ *
+  *
+   *
+
+
+D:\Appsquadz\Alphabetic Patterns>javac O.java
+
+D:\Appsquadz\Alphabetic Patterns>java O
+*   *
+*   *
+*   *
+*   *
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac O.java
+
+D:\Appsquadz\Alphabetic Patterns>java O
+*****
+*   *
+*   *
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac P.java
+
+D:\Appsquadz\Alphabetic Patterns>java P
+*****
+*   *
+*****
+*
+*
+
+D:\Appsquadz\Alphabetic Patterns>javac S.java
+
+D:\Appsquadz\Alphabetic Patterns>java S
+*****
+*
+*****
+    *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac R.java
+
+D:\Appsquadz\Alphabetic Patterns>java R
+Error: Could not find or load main class R
+Caused by: java.lang.ClassNotFoundException: R
+
+D:\Appsquadz\Alphabetic Patterns>javac P.java
+
+D:\Appsquadz\Alphabetic Patterns>java P
+*****
+*   *
+*****
+*
+*
+
+D:\Appsquadz\Alphabetic Patterns>javac R.java
+
+D:\Appsquadz\Alphabetic Patterns>java R
+*****
+*   *
+*****
+* *
+*  *
+
+D:\Appsquadz\Alphabetic Patterns>javac Q.java
+
+D:\Appsquadz\Alphabetic Patterns>java Q
+*****
+*   *
+*  **
+*****
+    *
+
+D:\Appsquadz\Alphabetic Patterns>javac T.java
+
+D:\Appsquadz\Alphabetic Patterns>java T
+*****
+  *
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac U.java
+
+D:\Appsquadz\Alphabetic Patterns>java U
+*   *
+*   *
+*   *
+*   *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac V.java
+
+D:\Appsquadz\Alphabetic Patterns>java V
+*   *
+*   *
+*   *
+ * *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac W.java
+
+D:\Appsquadz\Alphabetic Patterns>java W
+*   *
+*   *
+* * *
+** **
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac X.java
+X.java:17: error: illegal start of expression
+                if(i==j)) )
+                        ^
+X.java:19: error: 'else' without 'if'
+                                else
+                                ^
+2 errors
+
+D:\Appsquadz\Alphabetic Patterns>javac X.java
+
+D:\Appsquadz\Alphabetic Patterns>java X
+*
+ *
+  *
+   *
+    *
+
+D:\Appsquadz\Alphabetic Patterns>javac X.java
+
+D:\Appsquadz\Alphabetic Patterns>java X
+*
+ *
+  *
+   *
+    *
+
+D:\Appsquadz\Alphabetic Patterns>javac X.java
+
+D:\Appsquadz\Alphabetic Patterns>java X
+
+
+  *
+
+
+
+D:\Appsquadz\Alphabetic Patterns>javac X.java
+
+D:\Appsquadz\Alphabetic Patterns>java X
+*   *
+ * *
+  *
+ * *
+*   *
+
+D:\Appsquadz\Alphabetic Patterns>javac Z.java
+
+D:\Appsquadz\Alphabetic Patterns>java Z
+*****
+   *
+  *
+ *
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac Y.java
+
+D:\Appsquadz\Alphabetic Patterns>java Y
+  *
+  *
+*****
+*****
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac Y.java
+
+D:\Appsquadz\Alphabetic Patterns>java Y
+  *
+  *
+*****
+*****
+*****
+
+D:\Appsquadz\Alphabetic Patterns>javac Y.java
+
+D:\Appsquadz\Alphabetic Patterns>java Y
+
+
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac Y.java
+
+D:\Appsquadz\Alphabetic Patterns>java Y
+
+ * *
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>javac Y.java
+
+D:\Appsquadz\Alphabetic Patterns>java Y
+*   *
+ * *
+  *
+  *
+  *
+
+D:\Appsquadz\Alphabetic Patterns>

@@ -1,0 +1,14 @@
+1. Write a program that prompt the user to input an integer and then outputs the numbers with the digits reversed. For example, if the input is 12345, the output should be 54321.
+2. Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+3. Write a program that prompt the user to input a positive integer. It should then output a message indicating whether the number is a prime number.
+4. Write a program to calculate HCF of two given number.
+5. Write a program to enter the numbers till the user wants and the end it should display the count of positive, negative and zeros entered.
+6. Write a program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered.
+7. Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number.
+8. Patterns :
+
+	*****	12345	11111	12345			10101
+	*****	12345	22222	678910			10101
+	*****	12345	33333	1112131415		10101
+	*****	12345	44444	1617181920		10101
+	*****	12345	55555	2122232425		10101

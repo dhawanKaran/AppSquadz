@@ -1,0 +1,3 @@
+A runtime instance of the Java Virtual Machine has a  clear mission in life: to run one Java appliaction. When a java appliaction starts, a runtime instance is born. When the appliaction completes, the instance dies. If you start three Java appliaction at the same time, on the same computer, you will get three Java Virtual Machine instance. Each java appliaction runs inside its own Java Virtual Machine.
+
+A Java Virtual Machine instance starts running its solitary appliaction by invoking the main() method of intial class.

@@ -1,0 +1,7 @@
+If you want to initialize data members of each object with the same values then always use default constructor.
+
+If you initialize the instance data members at class level and you have not put any constructor in your class then initialization code will be inserted into the default constructor of your class by the compiler.
+
+If you initialize the instance data members at class level and you have put so many constructor in your class then initialize code will be inserted into the each constructor of your class by the compiler.
+
+In java you can also call the method at class level to initialize the data members of that class but at the time of compilation the compiler insert that code into the constructor as a first line.

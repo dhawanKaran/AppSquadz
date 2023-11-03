@@ -1,0 +1,7 @@
+The Java programming language provides two basic kind of methods; instance methods and class (or static) methods are:
+
+Instance methods require an instance before they can be invoked; class (static) methods do not,
+
+1. Instance methods use dynamic (late) binding; class methods use static (early) binding.
+
+2. The java virtual machine uses two different instruction to invoke these two different kind of methods: invoke virtual for instance methods and invoke static for class methods.

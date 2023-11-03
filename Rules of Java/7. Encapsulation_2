@@ -1,0 +1,19 @@
+1. Object is just a buffer or a memory area in a heap area in which all the instance data members are getting a memory.
+
+2. In java objects are runtime entities they always get the memory at runtime.
+ 
+3. In java only objects are getting a memory at runtime.
+
+4. In java new operator is only used to allocate a memory for an object only.
+
+5. The memory which has been allocated at run time that does not have any name.
+
+6. malloc() function always returns address of first allocation byte in the form of void pointer.
+
+7. Physical presence of an object is known as one instance of that object.
+
+8. Creating an object of class is the same thing creating an instance of a class in java.
+
+9. Always keep those properties of an object as instance data members of class whose values are changing for each instance of an object.
+
+10. Always keep those behaviours of an object as instance function of a class which are performing a task for an object only.

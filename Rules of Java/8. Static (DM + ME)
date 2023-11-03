@@ -1,0 +1,29 @@
+1. Always keep those properties of an object as a static data members of class whose values are same for each object.
+
+2. All the static data members of a class are always getting a memory at class loading time.
+
+3. All the static data members of a class always get the memory only once in the life cycle of a class.
+
+4. All the objects are sharing same memory location for each static data members of class.
+
+5. All the instance thing (DM + MF) of a class always belong to an object they are treated as properties of an object.
+  
+6. All the static thing (DM + MF) of a class always belong to a class they are treated as properties of a class.
+
+7. Never use static thing (DM + MF) of a class via object.
+
+8. Static data members of class can be initialized at class level.
+
+9. Why main() function is kept as static and the answer is because it is not doing any task related to any object.
+
+10. Why main() function is kept as public and the answer is because it is called from outside the class.
+
+11. Why main() function is having a return type as a void and the answer is because it is not returning any value to the JVM.
+
+12. Always keep those behaviours of an object as a static functions of a class which are not doing any task related to any object or in which you are not using instance data members of class.
+
+13. Instance data members and instance member functions of a class can not be used in any static functions of the same class but they can be used after creating the object of class in static functions.
+
+14. Static data members and static member functions of a class can be used directly in any function of the same class.
+
+15. The reference id of one object can be put into any number of reference variables.

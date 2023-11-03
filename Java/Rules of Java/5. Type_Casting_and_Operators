@@ -1,0 +1,16 @@
+Type Casting is a process of converting the value of one data type into another data type.
+
+Whenever we are converting the value of smaller data type into a bigger data type then it is known as implicit type casting and this process is called Widening.
+
+Whenever we are converting the value of bigger data type into a smaller data type then it is known as explicit type casting and this process is called Narrowing.
+
+
+
+
+Operating are just a symbols which are used to perform different type of calculation on own data.
+
+Except the postfix increment and postfix decrement operators, all the unary operators are having right to left associativity.
+
+Except the postfix assignment and relational operators, all the binary operators are having left to right associativity.
+
+Ternary Operators also having a right to left associativity.

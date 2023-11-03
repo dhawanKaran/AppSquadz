@@ -1,0 +1,12 @@
+Assignment-2
+
+11. void matrixmult(int x[][], int y[][])
+12. void matrixtranspose(int x[][])
+13. void matrixSum(int x[][])
+14. void triangleAsum(int x[][])
+15. void triangleAmax(int x[][])
+16. void triangleAmin(int x[][])
+17. void triangleBsum(int x[][])
+18. void triangleBmax(int x[][])
+19. void triangleBmin(int x[][])
+20. void shift(int x[])
